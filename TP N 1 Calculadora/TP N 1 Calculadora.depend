@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1599862360 source:c:\users\manuu\desktop\utn 2020\tp n 1 calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+
+1599862360 c:\users\manuu\desktop\utn 2020\tp n 1 calculadora\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+
+1599862360 source:c:\users\manuu\desktop\utn 2020\tp n 1 calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+
